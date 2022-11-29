@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 29 11:53:49 BRT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0184-c3e1-3ba9-00000fa2bd30 
+on database directory C:\teste\investimentos.db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/C:/dados/2022/BMFBOVESPA/lib/JAVADB_DRIVER_LABEL/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=C:\dados\2022\BMFBOVESPA
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
